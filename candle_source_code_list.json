@@ -14,6 +14,6 @@
         "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/Smart_lock.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.h",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.cpp",
-        "https://raw.githubusercontent.com/RMHogervorst/Devices/master/Plant_health_rmh/Plant_health2.ino"
+        "https://github.com/RMHogervorst/Devices/blob/master/Plant_health_rmh/Plant_health_rmh.ino"
     ]
 }
